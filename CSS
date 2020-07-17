@@ -1,0 +1,26 @@
+body{
+  text-align:center;
+  font-family: 'Courier New', Courier, monospace
+
+}
+.opening {
+  border: 5px outset black;
+  background-color: lightblue;
+  
+}
+
+.proposal {
+  border: 5px outset black;
+  background-color: lightcoral;
+  
+
+}
+
+
+.schedule {
+  Text-align:center;
+  border: 5px outset black;
+  background-color: lightyellow;
+
+}
+ 
